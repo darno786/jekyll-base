@@ -1,12 +1,12 @@
 # Site settings
-title: Adnan Shahnawaz
-email: unavailable
+title: Danyal Maruf
+email: Danyal68@hotmail.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  HELLO!
+  Hello, My name is Danyal, and apparently I am a legend.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: unavailable
-github_username:  unavailable
+Instagram_username: Danny_Maruf 
+Facebook_username:Danyak Maruf
 
 # Build settings
 markdown: kramdown
